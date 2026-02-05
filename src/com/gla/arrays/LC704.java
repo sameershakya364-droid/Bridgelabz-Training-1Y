@@ -18,4 +18,4 @@ public class LC704 {
         return -1;
     }
 }
-}
+
